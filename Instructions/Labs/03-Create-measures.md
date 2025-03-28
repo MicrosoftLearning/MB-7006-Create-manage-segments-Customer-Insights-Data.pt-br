@@ -39,7 +39,7 @@ Nesta primeira tarefa, criaremos uma medida para definir o valor médio de todas
 
 1. Clique no botão **Executar** para concluir a medida.
 
-Nesta próxima tarefa, criaremos uma medida para definir o valor médio de todas as compras na Web feitas na **Contoso Coffee**.
+    Nesta próxima tarefa, criaremos uma medida para definir o valor médio de todas as compras na Web feitas na **Contoso Coffee**.
 
 1. Selecione **Insights > Medidas** no menu de navegação à esquerda.
 
@@ -94,7 +94,7 @@ Nesta tarefa, criaremos uma medida para definir o total de todas as compras feit
 
 1. Clique no botão **Executar** para concluir a medida. Se você encontrar um erro e precisar escolher o **Caminho do relacionamento**, selecione **PoS_Purchases > Cliente** e clique no botão **Executar** para concluir.
 
-A seguir, criaremos uma medida para definir o total de todas as compras feitas online.
+    A seguir, criaremos uma medida para definir o total de todas as compras feitas online.
 
 1. Selecione **Insights > Medidas** no menu de navegação à esquerda.
 
@@ -135,7 +135,7 @@ Primeiro, definiremos o **Total de Pontos de Fidelidade** ganhos por cada client
 
 1. Clique no botão **Executar** para concluir a medida.
 
-A seguir, definiremos o valor total de todas as compras feitas de cada cliente.
+    A seguir, definiremos o valor total de todas as compras feitas de cada cliente.
 
 1. Selecione **Insights > Medidas** no menu de navegação à esquerda.
 
@@ -157,11 +157,9 @@ A seguir, definiremos o valor total de todas as compras feitas de cada cliente.
 
 1. Selecione a guia **Medidas**, expanda **TotalOnlineSpend: CustomerInsights**, selecione **Cálculo 1** e **Adicionar**.
 
-1. A medida concluída será semelhante à imagem abaixo.
-
 1. Clique no botão **Executar** para concluir a medida.
 
-A seguir, definiremos o valor médio de todas as compras na loja feitas de cada cliente.
+    A seguir, definiremos o valor médio de todas as compras na loja feitas de cada cliente.
 
 1. Selecione **Insights > Medidas** no menu de navegação à esquerda.
 
