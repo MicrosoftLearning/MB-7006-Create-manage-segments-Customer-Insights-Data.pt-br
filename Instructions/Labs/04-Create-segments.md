@@ -20,7 +20,7 @@ Nesta primeira tarefa, vamos criar um segmento com base no perfil do cliente. Va
 
 1. Em **Campo**, selecione **Estado** e, em **Valor**, escolha **Texas**.
 
-1. Selecione **Examinar**.
+1. Selecione **Revisar**.
 
 1. Nomeie o segmento como **Clientes do Texas** e verifique se o **Nome da tabela de saída** foi preenchido automaticamente com **CustomersFromTexas**.
 
@@ -39,7 +39,7 @@ O Marketing da Contoso Coffee quer fazer uma nova promoção. Com base em dados 
 
 1. Defina o **Valor** como **100**. O gráfico deve ser preenchido com **Compra média na web (US$)** por percentil.
 
-1. Selecione **Examinar**.
+1. Selecione **Revisar**.
 
 1. Nomeie o segmento como **Clientes do Premiere** e verifique se o **Nome da tabela de saída foi** preenchido automaticamente com **PremiereCustomers**.
 
